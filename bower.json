@@ -1,0 +1,29 @@
+{
+  "name": "chGoogleDrive",
+  "version": "0.0.1",
+  "description": "angular module to select file from google drive",
+  "main": "chGoogleDrive.min.js",
+  "authors": [
+    "chris hourihan"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "assets/components",
+    "spec",
+    "grunt",
+    "assets",
+    ".bowerrc",
+    ".gitignore",
+    "demo.html",
+    "gruntfile.js",
+    "package.json",
+    "README.md"
+  ],
+  "dependencies": {
+    "angular": "~1.2.23",
+    "lodash": "~2.4.1"
+  }
+}
